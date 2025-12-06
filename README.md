@@ -343,7 +343,7 @@ Si este repositorio te resulta útil, puedes dejar una ⭐ en GitHub o abrir un 
 
 ---
 
-## Autor
+## 8. Autor
 
 Creado por:
 
