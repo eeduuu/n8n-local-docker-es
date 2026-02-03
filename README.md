@@ -18,6 +18,9 @@ En ambos casos:
 const cheerio = require('cheerio');
 ~~~
 
+🕷️ Web Scraping nativo con Cheerio
+A diferencia de otras instalaciones, este setup viene preparado para que puedas usar Cheerio dentro de tus funciones, permitiéndote extraer información de cualquier sitio web de forma sencilla.
+
 ---
 
 ## 0. ¿Qué necesito antes de empezar?
