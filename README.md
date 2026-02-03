@@ -18,8 +18,11 @@ En ambos casos:
 const cheerio = require('cheerio');
 ~~~
 
-🕷️ Web Scraping nativo con Cheerio
-A diferencia de otras instalaciones, este setup viene preparado para que puedas usar Cheerio dentro de tus funciones, permitiéndote extraer información de cualquier sitio web de forma sencilla.
+![Guía para instalar n8n local con Docker incluyendo Cheerio para Web Scraping. Automatización self-hosted fácil, rápida y en español](https://github.com/user-attachments/assets/db681c3a-0566-4291-ad23-669fd2152f6f)
+
+### 🕷️ Web Scraping nativo con **Cheerio**
+
+A diferencia de otras instalaciones, este setup viene preparado para que puedas usar **Cheerio** dentro de tus funciones, permitiéndote **extraer información de cualquier sitio web** de forma sencilla y sin configuraciones adicionales.
 
 ---
 
