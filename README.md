@@ -1,5 +1,9 @@
 # n8n-local-docker-es
 
+![n8n](https://img.shields.io/badge/n8n-Local-orange)
+![Docker](https://img.shields.io/badge/Docker-Compatible-blue)
+![Idioma](https://img.shields.io/badge/Idioma-Español-red)
+
 Este repositorio incluye dos carpetas:
 
 - `local-windows/` → para usar en **Windows** con Docker Desktop.
