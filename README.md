@@ -357,10 +357,9 @@ Si este repositorio te resulta útil, puedes dejar una ⭐ en GitHub o abrir un 
 
 Creado por:
 
-- 🌐 Web: [https://dupavi.es](https://dupavi.es)  
-- 💼 LinkedIn: [Eduard Pampalona Viladot](https://www.linkedin.com/in/eeduuu-seo-ia/)
+💼 [Eduard Pampalona Viladot](https://www.linkedin.com/in/eeduuu-seo-ia/)
 
 <p align="left">
-  <a href="https://dupavi.es" target="_blank"><img src="https://img.shields.io/badge/DUPAVI.ES-f97316?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web dupavi.es" /></a> &nbsp; <a href="https://www.linkedin.com/in/eeduuu-seo-ia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Eduard Pampalona Viladot" /></a>
+ <a href="https://www.linkedin.com/in/eeduuu-seo-ia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Eduard Pampalona Viladot" /></a>
 </p>
 
