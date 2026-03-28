@@ -349,7 +349,7 @@ const cheerio = require('cheerio');
 Este proyecto está licenciado bajo la licencia MIT.  
 Consulta el archivo `LICENSE` para ver el texto completo.
 
-Si este repositorio te resulta útil, puedes dejar una ⭐ en GitHub o abrir un issue con dudas o sugerencias.
+Si este repositorio te resulta útil, puedes dejar una ⭐.
 
 ---
 
