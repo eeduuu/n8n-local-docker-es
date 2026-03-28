@@ -349,8 +349,6 @@ const cheerio = require('cheerio');
 Este proyecto está licenciado bajo la licencia MIT.  
 Consulta el archivo `LICENSE` para ver el texto completo.
 
-Si este repositorio te resulta útil, puedes dejar una ⭐.
-
 ---
 
 ## 8. Autor
@@ -363,3 +361,4 @@ Creado por:
  <a href="https://www.linkedin.com/in/eeduuu-seo-ia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Eduard Pampalona Viladot" /></a>
 </p>
 
+Si este repositorio te resulta útil, **puedes dejar una ⭐**.
