@@ -344,21 +344,21 @@ const cheerio = require('cheerio');
 
 ---
 
-## 7. Licencia
-
-Este proyecto está licenciado bajo la licencia MIT.  
-Consulta el archivo `LICENSE` para ver el texto completo.
-
----
-
-## 8. Autor
+## 7. Autor
 
 Creado por:
 
-💼 [Eduard Pampalona Viladot](https://www.linkedin.com/in/eeduuu-seo-ia/)
+💼 [Eduard Pampalona Viladot](https://www.linkedin.com/in/eeduuu/)
 
 <p align="left">
- <a href="https://www.linkedin.com/in/eeduuu-seo-ia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Eduard Pampalona Viladot" /></a>
+ <a href="https://www.linkedin.com/in/eeduuu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Eduard Pampalona Viladot" /></a>
 </p>
 
-Si este repositorio te resulta útil, **puedes dejar una ⭐**.
+Si este repositorio te resulta útil, **puedes dejar una ⭐.**
+
+---
+
+## 8. Licencia
+
+Este proyecto está licenciado bajo la licencia MIT.  
+Consulta el archivo `LICENSE` para ver el texto completo.
